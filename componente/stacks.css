@@ -1,0 +1,46 @@
+.stacks {
+    margin-top: 20px;
+}
+
+.stacks h3{
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.stacks ul {
+    list-style: none;
+
+    display: flex;
+    gap: 10px;
+}
+
+.stacks ul li {
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 7px 20px;
+    margin-top: 10px;
+}
+
+.html {
+    background-color: cornflowerblue;
+    color: white;
+    font-weight: 500;
+}
+
+.css {
+    background-color:  palevioletred;
+    color: white;
+    font-weight: 500;
+}
+
+.win {
+    background-color: blueviolet;
+    color: white;
+    font-weight: 500;
+}
+
+.code {
+    background-color: orange;
+    color: white;
+    font-weight: 500;
+}
